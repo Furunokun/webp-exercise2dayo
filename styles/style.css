@@ -1,0 +1,44 @@
+h1 {
+  margin: 0;
+  padding: 40px 0;
+  color: rgb(243, 235, 9);
+  font-size: 60px;
+  text-align: center;
+}
+p {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: #ffffff;
+  background: rgb(12, 0, 103);
+}
+h2 {
+  margin: 0;
+  padding: 0;
+}
+h3 {
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  background: rgb(8, 35, 169);
+}
+strong {
+  color: rgb(243, 235, 9);
+}
+html {
+  background-color: #3c5acffa;
+}
+pre {
+  margin: 1em 0;
+  padding: 1em;
+  border-radius: 5px;
+  font-size: 15px;
+  background: rgb(12, 0, 103);
+  color: #fff;
+  white-space: pre-wrap;
+}
+#white {
+  background: rgba(255, 255, 255, 0.87);
+}
